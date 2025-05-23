@@ -41,7 +41,7 @@ if (enter_Status !== 'not') {
                                     if (honey_Moon !== 'abroad') {
                                         alert('I want to celebrate honeymoon abroad. So, I do not want to marry you.');
                                     } else {
-                                        alert('You passed the interview. I will think about marrying you and let you know after checking the merit list!');
+                                        alert('You passed the interview. I will think about marrying you and will tell you after checking the merit list!');
                                     }
                                 }
                             }
